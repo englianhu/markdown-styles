@@ -28,7 +28,7 @@
     "test": "mocha -R spec ./test/*.test.js"
   },
   "dependencies": {
-    "handlebars": "~2.0.0",
+    "handlebars": "~4.7.6",
     "markdown-stream-utils": "~1.1.0",
     "mkdirp": "~0.5.1",
     "pipe-iterators": "~1.1.0",
